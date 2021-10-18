@@ -1,4 +1,4 @@
-package sfgclinicpatgrmversion;
+package com.example.sfgclinicpatgrmversion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -8,6 +8,7 @@ public class SfgClinicPatGrmversionApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SfgClinicPatGrmversionApplication.class, args);
+        System.out.println("Build success");
     }
 
 }
